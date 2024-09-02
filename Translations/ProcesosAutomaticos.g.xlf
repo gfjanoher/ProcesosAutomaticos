@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ProcesosAutomaticos">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 3274697903 - Control 667555776 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
+          <source>Usuario Tablas Intermedias</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MBG 50600 Company Inf - Control Usuario Tablas Intermedias - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4135972245 - Field 667555776 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Usuario Tablas Intermedias</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50600 Company Info Ext - Field Usuario Tablas Intermedias - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2191177092 - Field 4018789654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2582772947">
+          <source>Notificado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50601 Log BC A WCS Ext - Field Notificado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2963747633 - Field 4018789654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2710390357">
+          <source>Notificado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50602 Ajuste de stocks - Field Notificado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3549961887 - Field 4018789654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2976218505">
+          <source>Notificado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50603 Bloqueo de stocks - Field Notificado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3874814892 - Field 4018789654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1591155913">
+          <source>Notificado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50604 Consulta de stocks - Field Notificado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 786687470 - Field 4018789654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3030763610">
+          <source>Notificado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50605 Invent de stocks - Field Notificado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3492105883 - Field 4018789654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3176937586">
+          <source>Notificado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50606 Alta producto - Field Notificado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1492608334 - Field 4018789654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2032447694">
+          <source>Notificado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50607 Consumo - Field Notificado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3139191595 - Field 4018789654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 747898940">
+          <source>Notificado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50608 Traslado - Field Notificado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 268167661 - Field 4018789654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 223156553">
+          <source>Notificado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MBG 50609 almacen - Field Notificado - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

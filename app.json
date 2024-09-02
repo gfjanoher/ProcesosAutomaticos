@@ -1,0 +1,49 @@
+{
+  "id": "7eaecf87-d929-4912-a6d5-83ca3fc7c09e",
+  "name": "ProcesosAutomaticos",
+  "publisher": "MarquesMe",
+  "version": "1.0.0.5",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "446e722d-7819-456b-a3ac-9d7220135ce9",
+      "name": "PersonalizacionesRavetllat",
+      "publisher": "MarquesMe",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "76456377-a8ce-45db-9f81-dca461daefe5",
+      "name": "Integracion PLM",
+      "publisher": "MarquesMe",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "a222a72c-ae62-49d0-bfb6-78d0b2802bd1",
+      "name": "Integracion WCS",
+      "publisher": "MarquesMe",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50600,
+      "to": 50609
+    }
+  ],
+  "features": [ "TranslationFile" ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}

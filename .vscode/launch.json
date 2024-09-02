@@ -1,0 +1,50 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Ravellat - Desarrollo",
+            "request": "launch",
+            "type": "al",
+            "tenant": "404eaaf5-f2a7-4724-bc47-210503dc7109",  //Ravetllat
+            "environmentType": "Sandbox",
+            "environmentName": "Desarrollo",
+            "startupObjectId": 9305, //3142,  //22,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync"
+        },
+        {
+            "name": "Ravellat - Sandbox",
+            "request": "launch",
+            "type": "al",
+            "tenant": "404eaaf5-f2a7-4724-bc47-210503dc7109",  //Ravetllat
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox",
+            //"startupObjectId": 50003, //3142,  //22,
+            "startupObjectType": "Page",    
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync"
+        },
+        {
+            "name": "Ravellat - ProdUp",
+            "request": "launch",
+            "type": "al",
+            "tenant": "404eaaf5-f2a7-4724-bc47-210503dc7109",  //Ravetllat
+            "environmentType": "Sandbox",
+            "environmentName": "productionUpgrade",
+            "startupObjectId": 31, //3142,  //22,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync"
+        }
+    ]
+}
